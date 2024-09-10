@@ -1,1 +1,3 @@
 # pythonHomeworks
+
+Am dezvoltat soluții avansate în Python, demonstrând abilități de manipulare a structurilor de date și gestionare a excepțiilor. Am creat și utilizat clase pentru a implementa structuri de date esențiale, precum stive și cozi, și am realizat operații avansate cu seturi și matrici, inclusiv transpunerea și multiplicarea acestora. Am gestionat dicționare pentru validarea și manipularea datelor, implementând funcționalități de verificare a tipurilor de date și a valorilor lipsă. De asemenea, am lucrat cu fișiere folosind modulul os pentru a calcula dimensiuni și a număra extensii de fișiere.
